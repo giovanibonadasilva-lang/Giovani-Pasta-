@@ -10,9 +10,3 @@ if T>=1 and T<3:
 if T>=3:
     N2=(int(T+P2))
     print(20+8*T -8)
-
-
-
-
-
-
