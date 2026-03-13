@@ -1,5 +1,6 @@
 
 # FUNÇÃO CASTINE
+
 #int -> tipe inteiro
 #float -> tipo numero com ","
 #str -> conjunto de caracter
@@ -21,8 +22,17 @@
 #append -> add mais produto na lista
 #pop -> remove o ultimo produto na lista
 #
-#
-#
+#                   set    
+#                    |
+#                    V    
+#   dicionarios = {"nome": value}
+#                 {"idade": value}
+#                 {"nome": value} 
+
+#                   dict["idade"] = 10
+#                           |
+#                           V    
+#                         numero                    
 #
 #
 #-------///--------------///--------------///--------------///--------------///--------
