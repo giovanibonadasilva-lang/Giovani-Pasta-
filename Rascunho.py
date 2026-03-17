@@ -33,6 +33,28 @@
 #                           |
 #                           V    
 #                         numero                    
+#-------///--------------///--------------///--------------///--------------///--------
+#
+#-----17 / 03 / 2026-----
+#
+# For = Para
+#    for i in range (1, 6):
+#     print(i)
+# While = Enquanto
+#    while i < len(lista):
+#       print(lista[i])
+#       i = i + 1  # i += 1
+# Break = Quebra
+#   for i in range (1, 6):
+#      if  i%2 = 0  
+#           break
+#      print(i)
+# Continue = Pula
+#    for i in range (1, 6):
+#      if i%2 = 0 
+#           continue
+#      print(i)
+#
 #
 #
 #-------///--------------///--------------///--------------///--------------///--------

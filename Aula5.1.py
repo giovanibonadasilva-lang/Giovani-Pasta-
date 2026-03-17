@@ -44,3 +44,4 @@ digitado = (int(input("escreva o numero")))
 if digitado in quartoset:
       print(quartoset)
 
+
